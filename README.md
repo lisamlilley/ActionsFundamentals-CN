@@ -2,6 +2,8 @@
 
 Repo for the `GitHub Actions Fundamentals` training.
 
+Testing PR
+
 ## 👉 Objectives
 
 - Understand the __basic components__ and vocabulary of GitHub Actions
