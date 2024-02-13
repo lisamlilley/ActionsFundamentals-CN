@@ -87,7 +87,7 @@ jobs:
 
 </details>
 
-7. Commit the workflow file - and trigger the workflow manually. It should not run automatically if your path filter works. Got to [Action](/../../Actions),  select [GitHub Actions Demo](/../../actions/workflows/github-actions-demo.yml) and `Run workflow`:
+7. Commit the workflow file - and trigger the workflow manually. It should not run automatically if your path filter works. Go to [Action](/../../Actions),  select [GitHub Actions Demo](/../../actions/workflows/github-actions-demo.yml) and `Run workflow`:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/174105162-19f33fd1-8533-4860-9279-88fabec84451.png">
 
