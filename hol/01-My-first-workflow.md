@@ -1,4 +1,4 @@
-# 🔨 Hands-on: My first workflow
+# 🔨 Hands-on: Lisa's first workflow
 
 In this hands-on lab your will create your first GitHub Actions Workflow and learn how you can use Actions to automate tasks in your software development lifecycle. If you like more background information, please refer to the [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) pages on GitHub Docs. Good luck! 👍
 
